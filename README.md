@@ -14,5 +14,5 @@
 
 Результаты работы:
 
-1. Тест-кейсы, баг-репорты содержатся: https://docs.google.com/spreadsheets/d/15_ZA43COonvcJt7Wrtas5g00XqORkRJ6YpcNbg1DL90/edit#gid=980090331
+1. Тест-кейсы, баг-репорты: https://docs.google.com/spreadsheets/d/15_ZA43COonvcJt7Wrtas5g00XqORkRJ6YpcNbg1DL90/edit#gid=980090331
 2. 
